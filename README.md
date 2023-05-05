@@ -1,2 +1,2 @@
-# Desafio-GIT-GitHub
-Desafio do projeto sobre Git/GitHub
+# Bootcamp Unimed
+Desafios de programação voltado a ciência de dados
